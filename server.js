@@ -1,1 +1,1 @@
-console.log("hello world from node")
+console.log("protected owner")
