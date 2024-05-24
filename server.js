@@ -1,1 +1,1 @@
-console.log("second commit from myat")
+console.log("test restriction")
